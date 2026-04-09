@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech CSE last year student<br> and now i am intern at Peakprosys solution Pvt . ltd. Pune.<br>I am working on Fullstack Java .
+I am a B.Tech CSE final year student<br> and now i am intern at Peakprosys solution Pvt . ltd. Pune.<br>I am working on Java Fullstack developer.
 
 
 ## 🌐 Socials:
