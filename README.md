@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a B.Tech CSE final year student<br> and now i am intern at Peakprosys solution Pvt . ltd. Pune.<br>I am working on Java Fullstack developer.
+
+I am a Computer Science Engineering graduate passionate about software development.
+Currently working as a Java Full Stack Developer Intern at Peakprosys Solutions Pvt. Ltd., Pune.
+Skilled in Java, Spring Boot, REST APIs, SQL, and web technologies.
+I enjoy building applications and continuously improving my technical skills.
+Open to Java Full Stack Developer and Software Engineer opportunities.
+
 
 
 ## 🌐 Socials:
